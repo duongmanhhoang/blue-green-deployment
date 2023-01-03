@@ -1,5 +1,5 @@
 <?php
 
-echo "REMOTE_HOST: " . $_SERVER['REMOTE_HOST'];
+echo "SERVER_ADDR: " . $_SERVER['SERVER_ADDR'];
 echo "\n";
 echo "Delpoyed 1 time";
